@@ -1,0 +1,96 @@
+body {
+	text-align: center;
+	background-color: pink;
+}
+
+.travel_mainDiv {
+	border: 1px solid pink;
+	padding-left: 0px;
+	padding-right: 0px;
+	float: none;
+}
+
+.travel_mainDiv img {
+	width: 100%;
+}
+
+.travel_mainDiv hr {
+	width: 230px;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+	margin-left: 20px;
+}
+
+.movie_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+}
+
+.movie_head i {
+	float: right;
+}
+
+.movie-text span {
+	color: hotpink;
+}
+
+.text-success text-left {
+	font-family: cursive;
+}
+
+.text-muted text-left p {
+	color: black;
+}
+
+funworld {
+	height: 300px;
+	width: 300px;
+}
+
+.para2 {
+	color: black;
+}
+
+.enviroment_li {
+	margin-top: 13px;
+}
+
+.enviroment_li h4 {
+	border-bottom: 1px solid white;
+	padding: 8px;
+}
+
+#contact iframe {
+	width: 100%;
+}
+
+.contact_1 h3 {
+	display: inline;
+}
+
+.contact_1 a {
+	text-shadow: none;
+}
+
+.books {
+	cursor: pointer;
+}
+
+.books hr {
+	margin-bottom: 10px;
+}
+
+.modal-content {
+	margin-top: 100px;
+}
+
+.img_modal {
+	display: inline-block;
+}
+.p_modal{
+	margin-top: 10px;
+}
